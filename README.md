@@ -1,2 +1,4 @@
 # Dream-Shops
-Spring Boot, Spring Security, JWT Course – Shopping Cart Backend Java Project
+Spring Boot, Spring Security, JWT  
+<br>
+Shopping Cart Backend Java Project
